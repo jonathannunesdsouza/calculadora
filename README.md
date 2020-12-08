@@ -1,11 +1,11 @@
-#Calculadora
+# Calculadora
 >Este projeto é uma calculadora desenvolvida com *Javascript*.
 
 Este projeto é uma calculadora desenvolvida com o uso das tecnologias HTML 5, CSS, Bootstrap e Javascript afim de aplicar os conhecimentos aprendidos em aula no curso [Domine Web] da [Udemy].
 
 ![Screenshoot Calculadora](imagens/screenshoot-calculadora.JPG "Screenshoot Calculadora")
 
-##Clonando o repositório
+## Clonando o repositório
 
 Para executar o projeto localmente o repositório deve ser clonado ou baixado com o comando:
 
